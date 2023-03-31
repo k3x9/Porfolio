@@ -1,5 +1,5 @@
 # Portfolio
-This is my first attempt at web development.
+This is my first attempt in web development.
 
 I used internal CSS and HTML to make a web page.
 
